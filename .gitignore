@@ -59,6 +59,9 @@ ipch/
 *.bak
 *.tmp
 
+# Ignore accidentally created file
+0
+
 ## ========== Files You Should Keep ==========
 !*.cpp
 !*.h
